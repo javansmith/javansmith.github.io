@@ -1,6 +1,7 @@
-<h1> Welcome To Javan's Site! <h1>
-<h4> This is my first time creating a website, so I hope that you enjoy vewing it.<h4> 
-<h2> This site includes the following: <h2> 
-     <h4> 1.Main Page (This page)  
-     <h4> 2.Boiography Page
-     <h4> 3.Favorite places that I've been  
+# Welcome To Javan's Site! 
+#### This is my first time creating a website, so I hope that you enjoy exploring it.
+## This site includes the following: ## 
+####       1.Main Page (This page)  
+####       2.Boiography Page
+####       3.Favorite places that I've been  
+Feel free to explore all of the pages to learn a little about me and my interests.  
