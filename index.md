@@ -5,3 +5,4 @@
 ####       2.Boiography Page
 ####       3.Favorite places that I've been  
 Feel free to explore all of the pages to learn a little about me and my interests.  
+![Los Angeles View](https://djdo2py1q6zlg.cloudfront.net/magazine/wp-content/uploads/2018/10/LAX_336_hero1.jpg) 
