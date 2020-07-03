@@ -11,3 +11,8 @@ I love to play sports (mainly basketball); as far as watching sports, I like to 
 +    Chicken Quesadillas
 +    PBnJ Sandwich 
 +    All Breakfast Foods
+### Where I have Lived in the Past
++    Los Angeles, CA
++    Jacksonville, FL
++    Rota, Spain
++    Huntingdon, United Kingdom
