@@ -13,4 +13,4 @@ This is a volcanic island in the Cyclades group of the Greek islands. It is famo
 
 Venice was built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals and it’s known for its bridges. Venice is a beautiful city full of shopping and fresh seafood to go along with the Italian cuisine. Here, you can go on the famous and romantic gondola rides around the city while being serenaded by your gondolier. Definitely a place to visit. 
 
-![Venice](https://user-images.githubusercontent.com/67583875/86503704-753b3480-bdeb-11ea-9e11-4efe3cdcebf8.jpg)
+![Venice](https://user-images.githubusercontent.com/67583875/86503728-aa478700-bdeb-11ea-9bb5-a67d37aa93cd.jpg)
