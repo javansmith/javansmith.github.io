@@ -8,9 +8,9 @@ I love to play sports (mainly basketball); as far as watching sports, I like to 
 +    Football/ Raiders
 +    Baseball/ Dodgers
 ### Favorite Foods
-+    Chicken Quesadillas
-+    PBnJ Sandwich 
-+    All Breakfast Foods
++    Chicken Quesadillas [Click Here](https://www.allrecipes.com/recipe/21659/chicken-quesadillas/) To learn how to make chicken quesadillas. 
++    PBnJ Sandwich [Click Here](https://www.youtube.com/watch?v=N9GxhnKO9aA) To learn how to make a PBnJ sandwich. 
++    All Breakfast Foods 
 ### Where I have Lived in the Past
 +    Los Angeles, CA
 +    Jacksonville, FL
