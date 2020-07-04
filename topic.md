@@ -22,3 +22,7 @@ Nice is known for its fantastic climate, fabulous beaches and beautiful coastlin
 ![original](https://user-images.githubusercontent.com/67583875/86504313-f85f8900-bdf1-11ea-9ce8-2c366e7d3881.jpg) ![Iceland](https://user-images.githubusercontent.com/67583875/86504323-12996700-bdf2-11ea-9c4c-6b27f89c579e.jpg)
 
 Iceland has everything from volcanoes to geysers. I believe it’s best to stay for about a week to experience the whole country from the capital Reykjavík, one of the cleanest, greenest, and safest cities in the world to the Jokulsarlon Glacier Lagoon (and the Diamond Beach), where you’ll find the deepest lagoon with multicolored icebergs that float down to the black beach (Diamond Beach) where the icebergs sit. And of course, my favorite place in Iceland; the famous Blue Lagoon, a world-class spa with a built-in bar, even out lava flooring, a steam cave, a sauna, massage area in the water and more. There also many waterfalls to see throughout the country, and if you go at the right time, you will see the Norther Lights. Iceland is another place you MUST visit. 
+
+#### [Previous Page](bio.md) To go back to my Bio Page.
+
+#### [Main Page](index.md) To go back to the Main Page. 
