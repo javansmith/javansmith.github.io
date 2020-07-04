@@ -14,7 +14,7 @@ This is a volcanic island in the Cyclades group of the Greek islands. It is famo
 Venice was built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals and it’s known for its bridges. Venice is a beautiful city full of shopping and fresh seafood to go along with the Italian cuisine. Here, you can go on the famous and romantic gondola rides around the city while being serenaded by your gondolier. Definitely a place to visit. 
 
 ### 3. Nice, France 
-![images](https://user-images.githubusercontent.com/67583875/86504023-fa741880-bdee-11ea-94e7-9c55c92a176e.jpg) ![Nice](https://user-images.githubusercontent.com/67583875/86504037-2b544d80-bdef-11ea-849a-439c859f33d3.jpg) 
+![images](https://user-images.githubusercontent.com/67583875/86504283-a0288700-bdf1-11ea-8ade-57fa3c66e548.jpg) ![Nice](https://user-images.githubusercontent.com/67583875/86504037-2b544d80-bdef-11ea-849a-439c859f33d3.jpg) 
 
 Nice is known for its fantastic climate, fabulous beaches and beautiful coastline with mesmerizing views. Also, for its fantastic architecture with Belle Epoque and Baroque influenced buildings. Nice is located in the French Riviera, on the south east coast of France on the Mediterranean Sea, at the foot of the Alps. You can take a short train ride to Monaco to visit Monte Carlo as well, to kill two birds with one stone. Another MUST visit place. 
 
