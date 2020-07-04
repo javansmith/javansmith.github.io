@@ -19,3 +19,4 @@ Venice was built on more than 100 small islands in a lagoon in the Adriatic Sea.
 Nice is known for its fantastic climate, fabulous beaches and beautiful coastline with mesmerizing views. Also, for its fantastic architecture with Belle Epoque and Baroque influenced buildings. Nice is located in the French Riviera, on the south east coast of France on the Mediterranean Sea, at the foot of the Alps. You can take a short train ride to Monaco to visit Monte Carlo as well, to kill two birds with one stone. Another MUST visit place. 
 
 ### 4. Iceland
+![original](https://user-images.githubusercontent.com/67583875/86504313-f85f8900-bdf1-11ea-9ce8-2c366e7d3881.jpg) ![Iceland](https://user-images.githubusercontent.com/67583875/86504323-12996700-bdf2-11ea-9c4c-6b27f89c579e.jpg)
