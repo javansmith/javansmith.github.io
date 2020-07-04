@@ -21,4 +21,4 @@ I love to play sports (mainly basketball); as far as watching sports, I like to 
 
 #### [Previous Page](https://javansmith.github.io/) To Go Back To Main Page.
 
-#### [Next Page](topic.md) To View Favorite Places That I've Been To Page
+#### [Next Page](topic.md) To View Favorite Places That I've Visted Page
