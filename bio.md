@@ -19,6 +19,6 @@ I love to play sports (mainly basketball); as far as watching sports, I like to 
 
 ![Married](https://user-images.githubusercontent.com/67583875/86502723-36a07c80-bde1-11ea-905e-cd7fde5d0f7b.jpg "My Wife and I") ![Nikko](https://user-images.githubusercontent.com/67583875/86502745-78312780-bde1-11ea-9b4a-b0b83625ca0b.jpg "Nikko") 
 
-#### [Click Here](https://javansmith.github.io/) To Go Back To Main Page.
+#### [Previous Page](https://javansmith.github.io/) To Go Back To Main Page.
 
-#### [Click Here](topic.md) To View Favorite Places That I've Been To Page
+#### [Next Page](topic.md) To View Favorite Places That I've Been To Page
