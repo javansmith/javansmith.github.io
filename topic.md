@@ -1,1 +1,3 @@
 # Welcome to My Favorite Places That I've Visted Page!
+As I said before, I love to travel; and this page is basically a traveling page explaining some of my favorite places that I have visited in the past couple of years. My wife was the first to fall in love with traveling, and she introduced me to it as soon as our relationship began. Something about being in new places and seeing landmarks that I have only seen on TV is really thrilling to me. We love to travel together and we many pictures to prove it. Our pictures are very important to us because we can look back on them in the future to see all the good times we shared. If you haven't been to any of the places that I will be listing, I HIGHLY reccommend you do visit them if you get the chance. Enjoy!
+
