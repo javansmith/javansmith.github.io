@@ -13,3 +13,6 @@ The K5 operates 24 hours a day and 7 days a week by itself with no human help. W
 ### Here are other models of Knightscope. K1, K5, K3, and K7. 
 ![8_21_17_release_photo_1](https://user-images.githubusercontent.com/67583875/87876014-03c8cc00-ca10-11ea-83c3-f2f2576bd104.jpg) 
 
+#### [Previous Page](topic.md) To go back to my My Favorite Places That I've Visted Page.
+
+#### [Main Page](index.md) To go back to the Main Page. 
