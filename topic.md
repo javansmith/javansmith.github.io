@@ -25,6 +25,6 @@ Iceland has everything from volcanoes to geysers. I believe it’s best to stay 
 
 #### [Previous Page](bio.md) To go back to my Bio Page.
 
-#### [Next Page](robots.md) To go to my Bio Page
+#### [Next Page](robots.md) To learn about the Knightscope K5.
 
 #### [Main Page](index.md) To go back to the Main Page. 
